@@ -13,7 +13,7 @@
     "lib": "."
   },
   "dependencies": {
-    "bcrypt": "git://github.com/ncb000gt/node.bcrypt.js.git",
+    "bcrypt": "git://github.com/Raynos/node.bcrypt.js.git",
     "mongoose": ">=2.4.8",
     "everyauth": ">=0.2.28",
     "mongoose-types": ">=1.0.3"
